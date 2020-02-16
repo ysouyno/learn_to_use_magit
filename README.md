@@ -41,3 +41,7 @@ git push origin another_dev
 ### `commit`操作
 
 `C-x g`进入`magit`，`c`打开`commit`选项，`c`输入日志`commit`。
+
+### `push`操作
+
+`C-x g`进入`magit`，`P`打开`push`选项，`u`将更改推到远程。
